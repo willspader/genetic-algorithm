@@ -1,3 +1,6 @@
+# encontrar os dois pontos que fazem o máximo de uma equação quadrática de duas variáveis. f(x,y)=2–(x–2)^2–(y–3)^2
+# resultado esperado: x = 2 - y = 3, ou seja, f(x, y) = f(2, 3) = 2
+
 import random
 
 def maximum():
